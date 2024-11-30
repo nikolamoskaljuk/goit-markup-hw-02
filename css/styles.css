@@ -69,7 +69,7 @@ a {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
-  background-color: #404bbf;
+  background-color: #4d5ae5;
   color: #fff;
 }
 button {
@@ -105,7 +105,7 @@ button {
   color: #2e2f42;
 }
 .team-item {
-  background-color: #f4f4fd;
+  background: #fff;
 }
 .team-name {
   font-weight: 500;
