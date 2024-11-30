@@ -61,13 +61,17 @@ a {
   text-align: center;
   color: #fff;
 }
+
 .btn-order {
-  border-radius: 4px;
-  padding: 16px 32px;
-  width: 169px;
-  height: 56px;
-  background-color: #4d5ae5;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  background-color: #404bbf;
   color: #fff;
+}
+button {
+  cursor: pointer;
 }
 .btn-order:hover {
   background-color: #404bbf;
@@ -87,7 +91,7 @@ a {
   color: #434455;
 }
 .team {
-  background-color: #2e2f42;
+  background-color: #f4f4fd;
 }
 .team-title {
   font-weight: 700;
@@ -95,10 +99,11 @@ a {
   line-height: 111%;
   letter-spacing: 0.02em;
   text-align: center;
+  text-transform: capitalize;
   color: #2e2f42;
 }
 .team-item {
-  background-color: #fff;
+  background-color: #f4f4fd;
 }
 .team-name {
   font-weight: 500;
@@ -114,13 +119,13 @@ a {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.por.portfolio-title {
+.portfolio-title {
   font-weight: 700;
   font-size: 36px;
-  line-height: 111%;
-  letter-spacing: 0.02em;
+  line-height: 1.11;
   text-align: center;
-
+  text-transform: capitalize;
+  letter-spacing: 0.02em;
   color: #2e2f42;
 }
 .portfolio-name {
@@ -139,7 +144,7 @@ a {
   color: #434455;
 }
 .page-footer {
-  background-color: #434455;
+  background-color: #2e2f42;
 }
 .page-footer-text {
   font-weight: 400;
