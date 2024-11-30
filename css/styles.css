@@ -47,7 +47,7 @@ a {
 }
 
 .nav-link:hover,
-.nov-link:focus,
+.nav-link:focus,
 .contacts-link:hover,
 .contacts-link:focus {
   color: #404bbf;
@@ -75,7 +75,8 @@ a {
 button {
   cursor: pointer;
 }
-.btn-order:hover {
+.btn-order:hover,
+.btn-order:focus {
   background-color: #404bbf;
 }
 .benefits-title {
